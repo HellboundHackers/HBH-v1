@@ -1,4 +1,5 @@
 HBH-v1
 ======
 
-This is the current version of http://www.hellboundhackers.org
+This version of http://www.hellboundhackers.org is called HBH-v1 and is the current version.
+
